@@ -1,29 +1,29 @@
 # KB: research
 
-> Обновлено: 2026-09-17 · Источник: опубликованное в канале MNAggr
+> Обновлено: 2026-09-18 · Источник: опубликованное в канале MNAggr
 > Это слой обновлений поверх общих знаний, а не замена им.
 
 ## Что изменилось за 30 дней
-
+- [2026-09-17] 2026-09-17 Sam’s Club Connect shift from reactive retargeting to predictive modeling of future buyer behavior based on longitudinal data (practitioner observation).
 - [2026-09-17] B2B-специалисты переориентировали использование ИИ-инструментов с генерации текстов на аналитику, исследования рынков и изучение аудитории перед созданием контента (emarketer, Tier B).
 - [2026-09-17] Требования к маркировке и модерации ИИ-рекламы фрагментировались между регуляторами и платформами (Google, Meta), приводя к автоматическому отклонению объявлений без водяных знаков и специальной разметки (emarketer, Tier B).
 - [2026-09-16] Meta запустила Creator Marketing Hub — единый ресурс для брендов по работе с инфлюенсерами, запуску Branded Content и оценке эффективности кампаний ([emarketer.com](emarketer.com), Tier B).
 - [2026-09-16] Формат видеорекламы Pause ads стал доступен в масштабе programmatic-закупок для удержания внимания пользователей во время пауз ([emarketer](emarketer), Tier B).
 
 ## Реклама и монетизация
-
 - [2026-09-16] Meta запустила Creator Marketing Hub — единую платформу с рекомендациями по подбору инфлюенсеров, бест-практикам Branded Content и инструментами аналитики эффективности партнерств ([emarketer.com](emarketer.com), Tier B).
 - [2026-09-16] Формат Pause ads (реклама во время паузы видео) масштабировался до programmatic-закупок и внедряется платформами в рекламные сетки для захвата внимания в момент естественного перерыва ([emarketer](emarketer), Tier B).
 
 ## Политики, модерация, ограничения
-
 - [2026-09-17] Требования к маркировке и модерации ИИ-рекламы фрагментировались между регуляторами и платформами (Google, Meta), приводя к автоматическому отклонению объявлений без водяных знаков и специальной разметки (emarketer, Tier B).
 
 ## Данные о поведении аудитории
-
 - [2026-09-17] B2B-специалисты переориентировали использование ИИ-инструментов с генерации текстов на аналитику, исследования рынков и изучение аудитории перед созданием контента (emarketer, Tier B).
 
-## ❓ Не подтверждено первоисточником
+## 👤 Наблюдения практиков
+- [2026-09-18] Reddit holiday guide for SMBs emphasizes that users prioritize authentic recommendations and reviews in niche subreddits over aggressive advertising during the holiday shopping season (no link, Tier C). ^1g11i
 
+## ❓ Не подтверждено первоисточником
 - [2026-09-16] Подход к верификации рекламы в CTV и цифровых каналах смещается от пост-оценки viewability к дозакупочной (pre-bid) аналитике контекста и жанров контента (без ссылки, Tier C).
 - [2026-09-17] Sam’s Club Connect запустил рекламные инструменты Predictive Precision Targeting на базе лонгитюдных данных покупок для прогнозирования конверсий и работы с оттоком (без ссылки, Tier C).
+- [2026-09-17] Sam’s Club Connect launched Predictive Precision Targeting, using longitudinal purchase data to predict future buyers and identify households ready for cross-category upgrades (no link, Tier C). ^12oeu
